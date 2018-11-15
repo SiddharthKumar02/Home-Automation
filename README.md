@@ -1,2 +1,3 @@
 # Home-Automation
-A naive model of an automated home using esp8266
+A naive implementation of appliance automation using esp8266(NodeMCU 12E).
+## Abstract
