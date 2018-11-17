@@ -1,3 +1,3 @@
 # Home-Automation
 A naive implementation of appliance automation using esp8266(NodeMCU 12E).
-## Abstract
+## Project moved to: `https://github.com/IoT-Appliance-Automation`
